@@ -1,0 +1,2 @@
+Prefix plugins/MetaPhlAn2LEfSe/example/
+Plugin MetaPhlAn2LEfSe inputfile parameters.txt outputfile out.lefse.txt
